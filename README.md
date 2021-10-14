@@ -52,7 +52,7 @@ So I had to use some Googling...
 
 ### Useful resources
 
-- [CSS Filter](https://www.example.com) - This helped me for knowing which color was used as the overlay on the image **reason**. I really liked the way it changed the purple color () to ().
+- [CSS Filter](https://www.example.com) - This helped me for knowing which color was used as the overlay on the image **reason**. I really liked the way it changed the purple color (#aa5cdb) to (filter:invert(0%) brightness(39%) sepia(27%) hue-rotate(232deg) saturate(1471%) contrast(92%);).
 
 ## Author
 
